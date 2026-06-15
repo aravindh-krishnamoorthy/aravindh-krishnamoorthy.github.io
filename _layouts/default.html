@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <script>
+    window.MathJax = { tex: { inlineMath: [['$', '$'], ['\\(', '\\)']] } };
+  </script>
+  <script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</head>
+<body>
+  <button class="menu-toggle" onclick="document.body.classList.toggle('nav-open')">Sections</button>
+  <aside class="sidebar">
+    <div class="sidebar-title">{{ site.title }}</div>
+    <nav aria-label="Section navigation">
+      <a href="#top">Home</a>
+      <a href="#highlights">Highlights</a>
+      <a href="#quick-links">Quick Links</a>
+      <a href="#personal-life">Personal Life</a>
+      <a href="#curriculum-vitae">Curriculum Vitae</a>
+    </nav>
+  </aside>
+  <main class="content" id="top">
+    {{ content }}
+  </main>
+</body>
+</html>

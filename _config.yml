@@ -1,0 +1,7 @@
+title: Aravindh Krishnamoorthy
+baseurl: ""
+url: "https://aravindh-krishnamoorthy.github.io"
+markdown: kramdown
+kramdown:
+  input: GFM
+  math_engine: mathjax
