@@ -105,7 +105,7 @@ Wireless and communication systems:
 
 Television audio systems:
 
-- Designed and developed a fixed-point audio decoders and multiple audio signal-processing components for the in-house TriMedia DSP.
+- Designed and developed fixed-point audio decoders and multiple audio signal-processing components for the in-house TriMedia DSP.
 - Architected and developed a real-time audio-streaming platform for televisions, including audio-video synchronisation.
 - Completed long-term deputations to Eindhoven, San Jose, and Southampton.
 
