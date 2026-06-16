@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-# Dr.-Ing. Aravindh Krishnamoorthy (Personal Website)
+# Dr.-Ing. Aravindh Krishnamoorthy
 
 <div class="profile">
   <img src="assets/images/ark_2023.jpeg" style="width: 130px; height: auto;" alt="Aravindh Krishnamoorthy">
