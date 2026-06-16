@@ -3,18 +3,28 @@ title: Home
 layout: default
 ---
 
-# Aravindh Krishnamoorthy (Personal Website)
+# Dr.-Ing. Aravindh Krishnamoorthy (Personal Website)
 
 <div class="profile">
   <img src="assets/images/ark_2023.jpeg" style="width: 130px; height: auto;" alt="Aravindh Krishnamoorthy">
   <div>(2023)</div>
 </div>
 
-Aravindh Krishnamoorthy received his M.Sc. and Ph.D. (Dr.-Ing.) degrees from the Friedrich-Alexander University of Erlangen-Nuremberg (FAU), Germany, in 2015 and 2024, respectively, and B.E. from Visvesvaraya Technological University, India, in 2003. From 2003 to 2024, he was employed at Philips and NXP Semiconductors, Ericsson, Fraunhofer IIS, and FAU. Since Dec. 2024, he is at the LiFi Research and Development Centre, University of Cambridge, UK.
+Senior wireless systems and signal-processing engineer with 20+ years of experience across Ericsson, Philips Semiconductors, Fraunhofer IIS, and Friedrich-Alexander-University of Erlangen-Nürnberg. Presently employed  at the **LiFi Research and Development Centre, University of Cambridge, UK.** Experience spans wireless 2/4/5G PHY algorithm design, MIMO systems, DSP implementation, numerical linear algebra, embedded optimisation, optical wireless systems, quantum communication interface design, and 3GPP/IEEE standardisation. Track record includes standards contributions, deployed DSP-oriented designs, prototype systems, granted patents, recent patent filings, open-source numerical software contributions, and collaboration across research, product, and industry ecosystems.
 
-Aravindh's industrial experience spans system and algorithm design for 2/4/5G communication systems, standardization, numerical and matrix analysis, digital signal processing, and embedded (vector) programming. His research areas include system and algorithm design for radio frequency and optical systems, linear algebra, and information and communication theories. Aravindh is an author of several patents and IEEE journal articles. He is also an open source programmer and an open research proponent.
+### Core Expertise
 
-Aravindh's doctorate was sponsored by the Fraunhofer foundation via Fraunhofer IIS.
+- Wireless PHY algorithm design; 5G/6G systems and standardisation; 3GPP RAN1; IEEE 802.11; MIMO and massive MIMO; DSP and embedded implementation; fixed- and floating-point numerical methods; linear algebra and optimisation; optical wireless communication; scientific computing; Julia, Python, MATLAB, Mathematica, and C/C++.
+- Research on system and algorithm design for radio frequency and optical systems, linear algebra, and information and communication theories.
+
+### Selected Career Highlights
+
+- Contributed to 2G, 4G, 5G, and ongoing 6G standardisation work across Ericsson, Fraunhofer IIS, and the University of Cambridge, including 3GPP RAN1 and IEEE 802.11 activities.
+- Designed, dimensioned, and implemented physical-layer and numerical software components for embedded DSP and vector-processor platforms in telecom and consumer electronics products.
+- Led system design and demonstration of optical MIMO communication and optical positioning concepts.
+- Built technical links between academic research, industry stakeholders, 5GAA, and ETSI ISGs to align research outputs with standards and deployment priorities.
+- Generated patents in both industrial and university environments, including research carried out under tight academic resource constraints.
+- Contributed to open source and open research, including numerical algorithms and bug fixes to LAPACK, GNU Octave, R, NumPy, Julia, and Mathics3.
 
 Contact: [aravindh.krishnamoorthy@fau.de](mailto:aravindh.krishnamoorthy@fau.de) (will be forwarded to the current address)
 
@@ -38,23 +48,6 @@ Contact: [aravindh.krishnamoorthy@fau.de](mailto:aravindh.krishnamoorthy@fau.de)
 - Recognized contributions to several open source software
 
 ## Curriculum Vitae
-
-### Professional Summary
-
-Senior wireless systems and signal-processing engineer with 20+ years of experience across Ericsson, Philips Semiconductors, Fraunhofer IIS, Friedrich-Alexander-University of Erlangen-Nürnberg, and the University of Cambridge. Experience spans wireless 2/4/5G PHY algorithm design, MIMO systems, DSP implementation, numerical linear algebra, embedded optimisation, optical wireless systems, quantum communication interface design, and 3GPP/IEEE standardisation. Track record includes standards contributions, deployed DSP-oriented designs, prototype systems, granted patents, recent patent filings, open-source numerical software contributions, and collaboration across research, product, and industry ecosystems.
-
-### Core Expertise
-
-Wireless PHY algorithm design; 5G/6G systems and standardisation; 3GPP RAN1; IEEE 802.11; MIMO and massive MIMO; DSP and embedded implementation; fixed- and floating-point numerical methods; linear algebra and optimisation; optical wireless communication; scientific computing; Julia, Python, MATLAB, Mathematica, and C/C++.
-
-### Selected Career Highlights
-
-- Contributed to 2G, 4G, 5G, and ongoing 6G standardisation work across Ericsson, Fraunhofer IIS, and the University of Cambridge, including 3GPP RAN1 and IEEE 802.11 activities.
-- Designed, dimensioned, and implemented physical-layer and numerical software components for embedded DSP and vector-processor platforms in telecom and consumer electronics products.
-- Led system design and demonstration of optical MIMO communication and optical positioning concepts.
-- Built technical links between academic research, industry stakeholders, 5GAA, and ETSI ISGs to align research outputs with standards and deployment priorities.
-- Generated patents in both industrial and university environments, including research carried out under tight academic resource constraints.
-- Contributed numerical algorithms and bug fixes to LAPACK, GNU Octave, R, NumPy, Julia, and Mathics3.
 
 ### Professional Experience
 
