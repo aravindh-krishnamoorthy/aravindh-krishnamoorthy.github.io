@@ -28,7 +28,7 @@ Senior wireless systems and signal-processing engineer with 20+ years of experie
 
 Contact: [aravindh.krishnamoorthy@fau.de](mailto:aravindh.krishnamoorthy@fau.de) (will be forwarded to the current address)
 
-## Highlights
+## News
 
 - [Mathematics Blog](https://aravindh-krishnamoorthy.github.io/ark-math/), with a chapter on [Errata for my publications](https://aravindh-krishnamoorthy.github.io/ark-math/Ch4.html)
 - [Current open source profile including pinned projects on GitHub](https://github.com/aravindh-krishnamoorthy)
