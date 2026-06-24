@@ -26,7 +26,7 @@ Senior wireless systems and signal-processing engineer with 20+ years of experie
 - Generated patents in both industrial and university environments, including research carried out under tight academic resource constraints.
 - Contributed to open source and open research, including numerical algorithms and bug fixes to LAPACK, GNU Octave, R, NumPy, Julia, and Mathics3.
 
-Contact: [aravindh.krishnamoorthy@fau.de](mailto:aravindh.krishnamoorthy@fau.de) (will be forwarded to the current address)
+Contact: [aravindh.krishnamoorthy@alumni.fau.de](mailto:aravindh.krishnamoorthy@alumni.fau.de) (will be forwarded to the current address)
 
 ## News
 
