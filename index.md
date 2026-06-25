@@ -11,7 +11,7 @@ layout: default
 </div>
 
 <p class="intro-justified">
-Senior wireless systems and signal-processing engineer with 20+ years of experience across Ericsson, Philips Semiconductors, Fraunhofer IIS, Friedrich-Alexander-University of Erlangen-Nürnberg, and the University of Cambridge. Experience spans wireless 2/4/5G PHY algorithm design, MIMO systems, DSP implementation, numerical linear algebra, embedded optimisation, optical wireless systems, quantum communication interface design, and 3GPP/IEEE standardisation. Experience includes standards contributions, deployed DSP-oriented designs, prototype systems, granted patents, recent patent filings, open-source numerical software contributions, and collaboration across research, product, and industry ecosystems.
+Senior wireless systems and signal-processing engineer with 20+ years of experience across Ericsson, Philips Semiconductors, Fraunhofer IIS, Friedrich-Alexander-University of Erlangen-Nürnberg, and the University of Cambridge. Experience spans wireless 2/4/5G PHY algorithm design, MIMO systems, DSP implementation, numerical linear algebra, embedded optimisation, optical wireless systems, quantum communication interface design, and 3GPP/IEEE standardisation. Track record includes standards contributions, deployed DSP-oriented designs, prototype systems, granted patents, recent patent filings, open-source numerical software contributions, and collaboration across research, product, and industry ecosystems.
 </p>
 
 ### Core Expertise
