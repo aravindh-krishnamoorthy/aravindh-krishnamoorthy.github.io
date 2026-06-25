@@ -111,6 +111,10 @@ hr {
   line-height: 1;
 }
 
+.intro-justified {
+  text-align: justify;
+}
+
 .footer {
   text-align: center;
   margin-top: 2rem;
